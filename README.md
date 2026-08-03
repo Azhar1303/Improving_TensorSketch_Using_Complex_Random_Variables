@@ -43,9 +43,9 @@ To evaluate the proposed approach, the repository includes the following baselin
 
 | Baseline Method | Implementation Functions | Description |
 | :--- | :--- | :--- |
-| **Classical Real TensorSketch** | `real_tensorsketch_features` | Standard polynomial kernel approximation using CountSketch hashing, FFT-based convolution, and inverse FFT reconstruction. |
-| **Real Johnson–Lindenstrauss (JL) Sketches** | `real_gaussian_features`, `real_rademacher_features` | Random projection methods used to approximate $K(x, y) = (x^\top y)^p$. |
-| **Complex-to-Real (CtR) JL Sketches** | `ctr_gaussian_features`, `ctr_rademacher_features` | Complex-to-Real extensions of standard JL projections. |
+| **Classical Real TensorSketch**(1,2) | `real_tensorsketch_features` | Standard polynomial kernel approximation using CountSketch hashing, FFT-based convolution, and inverse FFT reconstruction. |
+| **Real Johnson–Lindenstrauss (JL) Sketches**(4) | `real_gaussian_features`, `real_rademacher_features` | Random projection methods used to approximate $K(x, y) = (x^\top y)^p$. |
+| **Complex-to-Real (CtR) JL Sketches**(3) | `ctr_gaussian_features`, `ctr_rademacher_features` | Complex-to-Real extensions of standard JL projections. |
 
 ---
 
@@ -62,8 +62,8 @@ The experiments are conducted on both synthetic and real-world datasets, where a
 
 ### Real-World Data
 
-* **MAGIC Gamma Telescope**: Contains $d = 10$ real-valued features.
-* **COD-RNA**: Contains $d = 8$ numerical attributes.
+* **MAGIC Gamma Telescope**(6): Contains $d = 10$ real-valued features.
+* **COD-RNA**(7): Contains $d = 8$ numerical attributes.
 * Up to $n = 3000$ points are subsampled for evaluation.
 * Results are averaged over 20 independent random trials.
 * The real-world test logs demonstrate evaluation across parameters such as $p \in \{3, 5, 7\}$ and $D \in \{10, 30, 50\}$.
