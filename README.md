@@ -1,5 +1,8 @@
 # Improving TensorSketch Using Complex Random Variables
 
+**Authors:** Amit Sharma, Mohammad Azhar Khan, Rameshwar Pratap
+
+
 This repository contains the source code for the experiments conducted in the paper **Improving TensorSketch Using Complex Random Variables** accpeted at Uncertainty in Artificial Intelligence (UAI) 2026 conference. 
 
 ---
