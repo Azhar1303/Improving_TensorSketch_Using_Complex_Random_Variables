@@ -100,7 +100,15 @@ Measures the computational efficiency required to construct sketch features for 
 The repository also contains additional experiments and their corresponding code added during the rebuttal period.
 
 ---
+## Contact
 
+For questions or inquiries regarding the paper or implementation, please feel free to contact the authors:
+
+* **Mohammad Azhar Khan**: [cs24mtech12006@iith.ac.in](mailto:cs24mtech12006@iith.ac.in) | [mdazharkhan704@gmail.com](mailto:mdazharkhan704@gmail.com)
+* **Amit Sharma**: [cs24resch02002@iith.ac.in](mailto:cs24resch02002@iith.ac.in)
+* **Rameshwar Pratap**: [rameshwar@iith.ac.in](mailto:rameshwar@iith.ac.in)
+
+---
 ## References
 
 1. Ninh Pham and Rasmus Pagh. Fast and scalable polynomial kernels via explicit feature maps. In Proceedings of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2013.
