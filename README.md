@@ -106,7 +106,7 @@ The repository also contains additional experiments and their corresponding code
 For questions or inquiries regarding the paper or implementation, please feel free to contact the authors:
 
 * **Mohammad Azhar Khan**: [cs24mtech12006@iith.ac.in](mailto:cs24mtech12006@iith.ac.in) | [mdazharkhan704@gmail.com](mailto:mdazharkhan704@gmail.com)
-* **Amit Sharma**: [cs24resch02002@iith.ac.in](mailto:cs24resch02002@iith.ac.in)
+* **Amit Sharma**: [cs24resch02002@iith.ac.in](mailto:cs24resch02002@iith.ac.in) | [sharmamit510@gmail.com](mailto:sharmamit510@gmail.com)
 * **Rameshwar Pratap**: [rameshwar@iith.ac.in](mailto:rameshwar@iith.ac.in)
 
 ---
